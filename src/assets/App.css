@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@200;400&display=swap');
+
+.conteudo {
+    display: flex;
+  }
+  
+  :root {
+    --primaria: #58a4b0;
+    --secundaria: #122246; /*botao criar nota*/
+    --secundaria-ativa: #cccccc;
+    --fundo: #d0cfdd; /*fundo direito*/
+    --fundo-detalhes: #ececec; /*fundo do criar notas*/
+  }
